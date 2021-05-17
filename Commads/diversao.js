@@ -32,4 +32,5 @@ let avatar = message.author.displayAvatarURL({format: 'png'});
 }
    
    
-   // como usar esse comando >> {prefix}nome @user EX !socar @uer EX2 !beijar @user etc... 
+
+   // como usar esse comando >> {prefix}socar !socar @user 
